@@ -264,9 +264,10 @@ You can open the notebook directly in Google Colab and run the analysis step by 
 ```text
 Netflix-Data-Analysis/
 │
+├── 📜 LICENSE
 ├── 📓 Netflix_Data_Analysis.ipynb
-├── 📦 netflix_titles.csv.zip
-└── 📖 README.md
+├── 📖 README.md
+└── 📦 netflix_titles.csv.zip
 ```
 
 > 📌 If the dataset is not included in the repository, download the dataset separately and place it in the same directory as the notebook.
@@ -304,6 +305,12 @@ Through this project, I practiced:
 ✅ Interpreting patterns and trends in data
 
 ---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+See the [LICENSE](LICENSE) file for more details.
 
 # 👩‍💻 Author
 
